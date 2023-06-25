@@ -1,4 +1,4 @@
-# COMP0178 Project
+# ebay Clone
 
 ## Getting Started
 
